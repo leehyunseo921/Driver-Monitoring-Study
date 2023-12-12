@@ -49,5 +49,8 @@ In the future, we plan to provide a safer driving environment by building a more
 * See headpose_and_eye.py
 
 **(3) Acquisition of autonomous driving datasets through Senso Fusion in autonomous driving artificial intelligence academic clubs **
+![Untitled (10)](https://github.com/leehyunseo921/Driver-Monitoring-Study/assets/153660740/98b941ae-5542-4946-a316-14e6f0682f09)
+
+
 
 
