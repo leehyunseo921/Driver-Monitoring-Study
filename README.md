@@ -20,7 +20,7 @@ Attached is a description of the PPT technology below.
 (2) Capstone project on the topic of drowsy driving and forward warning system through driver face recognition using webcam
 **
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd63cb73-2b18-4ae6-a39a-61825b0b238e/Untitled.png)
+![Untitled (10)](https://github.com/leehyunseo921/Driver-Monitoring-Study/assets/153660740/394c7288-5c5f-4b19-8292-101bd6e7d8f0)
 
 1. Development Motivation:
 Cars, which are essential means of transportation for modern people, carry the risk of traffic accidents along with convenience. In particular, traffic accidents frequently occur due to drowsy driving and lack of attention ahead. As a result, we have developed an economical and accessible system using webcams to prevent accidents caused by carelessness.
