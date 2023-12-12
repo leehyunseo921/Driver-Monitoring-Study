@@ -2,8 +2,9 @@
 A Study on the Estimation and Monitoring of Driver's Eyes for the Realization of Self-Driving Technology
 
 **
-(1)Driver gaze estimation and caution-only accident prevention system through deep learning
+(1) Cloud  programming world cup on the topic of developing a distracted driving accident prevention system through driver gaze estimation using deep learning. 
 **
+
 
 We use "pupil" to track the driver's gaze. And we use azure to track the direction of the driver's head. Through this, the driver's gaze and head direction estimate situations in which the driver closes his eyes for a long time or the driver is unable to concentrate on driving. Based on this, the system first alerts the driver. Furthermore, the information is passed over to the driver around them via communication and visualized on the GUI.
 ![Untitled (9)](https://github.com/leehyunseo921/Driver-Monitoring-Study/assets/153660740/2f372e20-bd08-44ef-8b87-89b6eeed3ba0)
@@ -16,8 +17,10 @@ Attached is a description of the PPT technology below.
 
 
 **
-(2)Driver drowsiness estimation and distraction warning system using webcam
+(2) Capstone project on the topic of drowsy driving and forward warning system through driver face recognition using webcam
 **
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd63cb73-2b18-4ae6-a39a-61825b0b238e/Untitled.png)
 
 1. Development Motivation:
 Cars, which are essential means of transportation for modern people, carry the risk of traffic accidents along with convenience. In particular, traffic accidents frequently occur due to drowsy driving and lack of attention ahead. As a result, we have developed an economical and accessible system using webcams to prevent accidents caused by carelessness.
@@ -44,5 +47,7 @@ This system can prevent inadvertent traffic accidents and increase safety by lin
 In the future, we plan to provide a safer driving environment by building a more sophisticated vehicle-driver interaction system using a deep learning model.
 
 * See headpose_and_eye.py
+
+**(3) Acquisition of autonomous driving datasets through Senso Fusion in autonomous driving artificial intelligence academic clubs **
 
 
