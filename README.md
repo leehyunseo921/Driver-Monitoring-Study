@@ -51,6 +51,7 @@ In the future, we plan to provide a safer driving environment by building a more
 **(3) Acquisition of autonomous driving datasets through Senso Fusion in autonomous driving artificial intelligence academic clubs **
 
 For more information, see the corresponding notation page
+
 https://www.notion.so/kaai/ALL-DATA-SYNC-bdb52b4babab49838f520b3d31b6532d
 
 
