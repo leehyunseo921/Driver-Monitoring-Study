@@ -23,18 +23,22 @@ Cars, which are essential means of transportation for modern people, carry the r
 Our system uses Kosi's QHD imaging camera to photograph the driver's face head-on.
 After face detection, use the shape_predictor_68_face_landmarks model to locate the driver's eyes and calculate the aspect ratio, which detects the closing of the eyes.
 The direction of the driver's head is a landmark-based angle calculation that determines the top, bottom, left, and right sides, and ensures that they remain staring straight ahead.
+
 3. Criteria for judging drowsiness and carelessness:
 
 If the blink duration is more than 1.5 seconds, it is determined as drowsy by measuring the time you close your eyes.
 If you look in a different direction for more than 5 seconds based on the front gaze through a change in head direction, it is considered careless.
+
 4. Experiment and Utilization:
 
 The experiment used Kosi's QHD image camera, and the experiment was conducted under the assumption of various scenarios while driving.
 Image data from the webcam can be extracted in the form of csv files and used for future accident analysis and research.
+
 5. Results and future developments:
 
 This system can prevent inadvertent traffic accidents and increase safety by linking with V2X communications that can report emergencies.
 In the future, we plan to provide a safer driving environment by building a more sophisticated vehicle-driver interaction system using a deep learning model.
 
+* See headpose_and_eye.py
 
 
